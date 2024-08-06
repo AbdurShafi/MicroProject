@@ -1,0 +1,42 @@
+label{
+    font-weight: bold;
+    color: #9410c0;
+    font-size: 18px;
+    font-family: "Poppins";
+    
+}
+.form-control{
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h1{
+    text-align: center;
+    color: #9410c0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: "Poppins";
+    background-color: cadetblue;
+}
+.container{
+    padding-top: 30px;
+    padding-left:25%;
+    padding-right: 25%;
+   
+}
+
+#result{
+    background-color: cornflowerblue;
+    margin-top: 30px;
+    height: 50px;
+    text-align: center;
+    padding-top: 10px;
+    font-family: "Poppins";
+}
+.findallda{
+   margin-left: 1%;
+}
+.findma{
+    background-color: rgb(71, 117, 157);
+}
